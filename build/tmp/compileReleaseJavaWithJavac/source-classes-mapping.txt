@@ -1,8 +1,0 @@
-com/example/waldaufforstung_v2/databinding/ActivityMainBinding.java
- com.example.waldaufforstung_v2.databinding.ActivityMainBinding
-com/example/waldaufforstung_v2/BuildConfig.java
- com.example.waldaufforstung_v2.BuildConfig
-com/example/waldaufforstung_v2/MainActivity.java
- com.example.waldaufforstung_v2.MainActivity
- com.example.waldaufforstung_v2.MainActivity$1
- com.example.waldaufforstung_v2.MainActivity$2
