@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Waldaufforstung</string>
+    <string name="trees">Trees</string>
+    <string name="hectar">Hektar :</string>
+    <string name="hint_hectar">Hektar</string>
+
+    <string name="about_us">Über Uns</string>
+    <string name="calc_anzahl">Anzahl berrechnen</string>
+    <string name="anzahl">Anzahl</string>
+    <string name="baumart">Baumart</string>
+    <string name="calc_hectar">Hektar berrechnen</string>
+    <string name="contact">Kontakt</string>
+
+</resources>
